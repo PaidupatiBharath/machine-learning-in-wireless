@@ -1,0 +1,4 @@
+= Machine Learning in Wireless
+
+* Developing Machine Learning models that are useful for predicting issues
+or patterns in wifi.
